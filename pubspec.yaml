@@ -1,0 +1,40 @@
+name: login_app
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter_bloc: ^8.1.1
+  cloud_firestore: ^4.3.0
+  cupertino_icons: ^1.0.2
+  firebase_auth: ^4.2.3
+  firebase_core: ^2.4.0
+  flutter:
+    sdk: flutter
+  flutter_svg: ^1.1.6
+
+dev_dependencies:
+
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/png/login_top_bar.png
+    - assets/images/png/logo.png
+    - assets/images/png/register_tap_bar.png
+    - assets/images/svg/fun_valuet.svg
+    - assets/images/png/order_confirmed 1.png
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf

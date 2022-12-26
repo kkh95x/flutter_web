@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026994798647",
+    "project_id": "login-sit",
+    "storage_bucket": "login-sit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026994798647:android:a8997037524c735ade3fb2",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026994798647-tuo8rqh2jajlm503c3mhqafng1ktgti6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzcWxHdBgRrviVbjdV9Wqh324huuUUelY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026994798647-tuo8rqh2jajlm503c3mhqafng1ktgti6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
